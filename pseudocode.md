@@ -15,8 +15,19 @@
   -enter password when prompted
   
 ## Conditionals
-  -if app if free or paid 
+  -if app is free or paid 
  
+ ## Instructions
+ 1. unlock phone by entering passcode
+ 2. tap to open the appstore app
+ 3. search for the desired app
+ 4. tap on app name 
+ 5. if app is free tap 'get', if paid tap the price shown(if paid app selected, enter payment info when prompmted)
+ 6. tap 'install'
+ 7. enter password when prompted
+ 8. tap 'sign in'
+ 9. download will begin automatically
+ 10. tap 'open' when download is complete 
   
   
 

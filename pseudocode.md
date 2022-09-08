@@ -27,7 +27,7 @@
  7. enter password when prompted
  8. tap 'sign in'
  9. download will begin automatically
- 10. tap 'open' when download is complete 
+ 10. tap 'open' when download is complete
   
   
 
